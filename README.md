@@ -1,6 +1,4 @@
-# Data Engineer/Analyst
-
-#### Technical Skills: Python, SQL, AWS, PowerBI, Tableau
+# Data Analyst/Engineer
 
 ## Education
 - BSc., Statistics & Mathematics | University of Ghana (_May 2018_)
@@ -16,6 +14,7 @@ An AWS data trasmition and warehousing system, implemented using _Infrastructure
 ![Project Architecture Diagram](/assets/img/Project-Architecture.jpg)
 
 **King County House Sales Analytics**
+
 [Publication](https://public.tableau.com/app/profile/frank.fugah/viz/TRIAL1_17022674329510/KingCountyHouseSales?publish=yes)
 
 Used **Tableau** to build an interactive dashboard of housing sales in King County. The dataset was from May 2014 to May 2015.
