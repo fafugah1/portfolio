@@ -5,7 +5,8 @@
 
 ## Personal Projects
 **Covid19 Redshift Data Warehousing Project**
-An AWS data trasmition and warehousing system, implemented using _Infrastructure as Code_.
+
+An AWS data trasmission and warehousing system, implemented using _Infrastructure as Code_.
 
 - Used Terraform to set up the AWS Infrastructure
 - Wrote codes to facilitate the copy, upload, staging and storage of the data
