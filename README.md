@@ -3,7 +3,7 @@
 ## Education
 - BSc., Statistics & Mathematics | University of Ghana (_May 2018_)
 
-## Personnal Projects
+## Personal Projects
 **Covid19 Redshift Data Warehousing Project**
 An AWS data trasmition and warehousing system, implemented using _Infrastructure as Code_.
 
