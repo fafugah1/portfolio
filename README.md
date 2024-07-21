@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, PowerBI, Tableau
 
 ## Education
-- BSc., Statistics & Mathematics | University of Ghana at Accra (_May 2018_)
+- BSc., Statistics & Mathematics | University of Ghana (_May 2018_)
 
 ## Personnal Projects
 **Covid19 Redshift Data Warehousing Project**
@@ -13,7 +13,7 @@ An AWS data trasmition and warehousing system, implemented using _Infrastructure
 - Wrote codes to facilitate the copy, upload, staging and storage of the data
 - Technologies used: AWS, Python, Terraform
 
-![Project Architecture Diagram](/assets/img/Covid19-DE-Project-Architecture.drawio%20(1).jpg)
+![Project Architecture Diagram](/assets/img/Covid19-DE-Project-Architecture.drawio.jpg)
 
 **King County House Sales Analytics**
 [Publication](https://public.tableau.com/app/profile/frank.fugah/viz/TRIAL1_17022674329510/KingCountyHouseSales?publish=yes)
