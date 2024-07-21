@@ -13,6 +13,8 @@ An AWS data trasmition and warehousing system, implemented using _Infrastructure
 - Wrote codes to facilitate the copy, upload, staging and storage of the data
 - Technologies used: AWS, Python, Terraform
 
+![Project Architecture Diagram](/assets/img/Covid19-DE-Project-Architecture.drawio%20(1).jpg)
+
 **King County House Sales Analytics**
 [Publication](https://public.tableau.com/app/profile/frank.fugah/viz/TRIAL1_17022674329510/KingCountyHouseSales?publish=yes)
 
